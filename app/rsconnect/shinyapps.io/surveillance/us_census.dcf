@@ -1,0 +1,13 @@
+name: us_census
+title: us_census
+username:
+account: surveillance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5293268
+bundleId: 5346794
+url: https://surveillance.shinyapps.io/us_census/
+when: 1638991375.76853
+lastSyncTime: 1638991375.76855
+asMultiple: FALSE
+asStatic: FALSE
